@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oz Amoyal</h1>
 <h3 align="center">:computer: Third-year Computer Science Student at Bar Ilan University</h3>
 
-- 🌱 I’m currently learning **Operating Systems, Advanced programming**
+- 🌱 I’m currently learning **Parallel programming, AI**
 
 - 💬 Ask me about **Networking and OOP**
 
