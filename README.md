@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Parallel programming, AI**
 
-- 💬 Ask me about **Networking and OOP**
+- 💬 Ask me about **Networking and FullStack development**
 
 - 📫 How to reach me **Uziamoyal@gmail.com**
 
